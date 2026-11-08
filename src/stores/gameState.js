@@ -30,7 +30,7 @@ export const useGameStateStore = defineStore('gameState', {
         addBadges() { },
         updateHallucinationRate() { },
         promoteRank() { },
-        unlockSkill() { }
+        unlockAbility() { }
     },
 
     persist: true
